@@ -1,4 +1,4 @@
-# app
+# Projeto APP
 O projeto “APP” e´ um protótipo que mescla os projetos desenvolvidos
 durante as aulas, projetos tais que abordam as técnicas de programação
 trabalhadas e explicadas pelo professor Dr.Sicsú.
